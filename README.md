@@ -1,5 +1,7 @@
 # ポートフォリオPortfolio
 
+![lilac](./LILAC.png)
+
 ## Huang, Tzu-Chia / シカ
 
 - System Engineer
