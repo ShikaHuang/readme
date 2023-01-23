@@ -40,3 +40,8 @@
 - COBOL    ★★★☆☆
 - SQL      ★★★☆☆
 - HTML/CSS ★★☆☆☆
+
+## Language Skills
+-中文/Chinese
+-日本語/Japanese
+-英語/English
