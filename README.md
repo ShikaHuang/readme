@@ -1,6 +1,6 @@
 # ポートフォリオPortfolio
 
-## Huang, Tzu-Chia / 黄紫嘉/ Shika, Huang
+## Huang, Tzu-Chia / シカ
 
 - System Engineer
 - Traveler
