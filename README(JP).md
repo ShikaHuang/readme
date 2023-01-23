@@ -1,8 +1,8 @@
-# ポートフォリオPortfolio
+# ポートフォリオ＊日本語バージョン
 
 ![lilac](./LILAC.png)
 
-## Huang, Tzu-Chia / シカ
+## Huang, Tzu-Chia / ファン　シカ / Huang, Shika
 
 - System Engineer
 - Traveler
@@ -19,8 +19,8 @@
 
 ## インターン経験
 
-- PWC
-    - PHPで簡易投稿システムの改修
+- Price waterhouse Coopers(PwC)
+    - 期末監査
     - 管理画面のレイアウト修正(bootstrap/css)
     - 投稿フォーム修正(MySQL/PHP)
     - HTML5タグ移行
