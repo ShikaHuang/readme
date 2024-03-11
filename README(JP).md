@@ -2,7 +2,7 @@
 
 ![lilac](./LILAC.png)
 
-## Huang, Tzu-Chia / ファン　シカ / Huang, Shika
+
 
 - システムエンジニア
 - 冒険者
@@ -35,17 +35,10 @@
 
 ## 学歴
 
-- 2020年11月～2021年9月 (日本)赤門会日本語学校 ビジネスクラス
-- 2015年9月～2020年1月 (台湾)国立台北大学 財政学科
+
 
 ## ソーシャルアカウント
 
-- GitHub
-    - https://github.com/ShikaHuang
-- Instagram
-    - https://instagram.com/com_fly?igshid=YmMyMTA2M2Y=
-- Youtube
-    - https://www.youtube.com/channel/UCOe4jPJc3YjqJmrpcll3x7w
 
 ## 使用したことのある言語
 
